@@ -1,6 +1,6 @@
 {
-  "name": "GIFReplace",
-  "description": "This extension will replace animated gifs on a webpage.",
+  "name": "Kitty Replace",
+  "description": "This extension will replace animated gifs on a webpage with images of kittens.",
   "version": "0.1.0",
   "background" : {
     "scripts":["background.js"],
